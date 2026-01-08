@@ -62,10 +62,10 @@ const PackGrid = () => {
             All Packs
           </span>
           <span className="px-4 py-2 rounded-full bg-card/50 border border-border/50 text-sm text-muted-foreground hover:bg-card hover:border-border transition-colors cursor-pointer">
-            🌍 International
+            🇯🇵 Japanese
           </span>
           <span className="px-4 py-2 rounded-full bg-card/50 border border-border/50 text-sm text-muted-foreground hover:bg-card hover:border-border transition-colors cursor-pointer">
-            🇯🇵 Japanese
+            🇪🇸🇬🇧 Spanish / English
           </span>
           <span className="px-4 py-2 rounded-full bg-card/50 border border-border/50 text-sm text-muted-foreground hover:bg-card hover:border-border transition-colors cursor-pointer">
             🇰🇷 Korean
